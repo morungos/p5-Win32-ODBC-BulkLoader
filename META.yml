@@ -1,0 +1,5 @@
+--- #YAML:1.0
+name: Win32::ODBC::BulkLoader
+version: 0.01
+license: perl
+distribution_type: module
